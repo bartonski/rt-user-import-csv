@@ -1,0 +1,10 @@
+id,Name,Password,AuthToken,Comments,Signature,EmailAddress,FreeformContactInfo,Organization,RealName,NickName,Lang,Gecos,HomePhone,WorkPhone,MobilePhone,PagerPhone,Address1,Address2,City,State,Zip,Country,Timezone
+user/1,einz.uno@example.com,********,,,,einz.uno@example.com,,"groupe de demandeurs un","Einz Uno -- groupe de demandeurs un",,,,,,,,,,,,,,
+user/2,zwei.dos@example.com,********,,,,zwei.dos@example.com,,"groupe de demandeurs deux","Zwei Dos -- groupe de demandeurs deux",,,,,,,,,,,,,,
+user/3,drei.tres@example.com,********,,"Autocreated when added as a watcher",,drei.tres@example.com,,,,,,,,,,,,,,,,,
+user/4,vier.cuatro@example.com,********,,,,vier.cuatro@example.com,,"groupe de demandeurs quatre","Vier Cuatro -- groupe de demandeurs quatre",,,,,,,,,,,,,,
+user/5,funf.cinco@example.com,********,,,,funf.cinco@example.com,,"groupe de demandeurs cinq","Funf Cinco -- groupe de demandeurs cinq",,,,,,,,,,,,,,
+user/6,sechs.seis@example.com,********,,,,sechs.seis@example.com,,"groupe de demandeurs six","Sechs Seis -- groupe de demandeurs six",,,,,,,,,,,,,,
+user/7,sieben.siete@example.com,********,,"Autocreated when added as a watcher",,sieben.siete@example.com,,,,,,,,,,,,,,,,,
+user/8,acht.ocho@example.com,********,,,,acht.ocho@example.com,,"groupe de demandeurs huit","Acht Ocho -- groupe de demandeurs huit",,,,,,,,,,,,,,
+user/9,neun.nueve@example.com,********,,"Autocreated on ticket submission",,neun.nueve@example.com,,,"neun.nueve@example.com",,,,,,,,,,,,,,
